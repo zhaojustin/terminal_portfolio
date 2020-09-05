@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap');
+
+body {
+    margin: 5%;
+    background-color: black;
+}
+
+a {
+    color: #0bc;
+    text-decoration: none;
+}
+
+.header {
+    font-family: 'Roboto Mono', monospace;
+    color: white;
+}
+
+#header-emphasis {
+    font-family: 'Roboto Mono', monospace;
+    color: white;
+}
+
+.green {
+    color: #0f0;
+}
+
+.red {
+    color: #ff0096;
+}
+
+.blue {
+    color: #0bc;
+}
+
+.terminal, .cmd, .terminal .terminal-output div div, .cmd .prompt {
+    font-size: 40px;
+    line-height: 24px;
+    color: white;
+}
